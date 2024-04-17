@@ -1,0 +1,8 @@
+<IfModule mod_rewrite.c>
+Options +FollowSymLinks
+RewriteEngine on
+RewriteRule ^uk/products-.*-(\d+).jsp$ index\.php?id=$1&%{QUERY_STRING} [L]
+RewriteRule ^uk/(.*)-s\d+.jsp$ index\.php?cat=$1&%{QUERY_STRING} [L]
+
+RewriteBase /coreq
+</IfModule>

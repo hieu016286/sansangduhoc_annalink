@@ -1,0 +1,1852 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dich theme Blogger\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-03 09:42+0700\n"
+"PO-Revision-Date: 2014-09-03 11:20+0700\n"
+"Last-Translator: Huỳnh Tín <it6hui@gmail.com>\n"
+"Language-Team: \n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_nx;_x\n"
+"X-Poedit-Basepath: C:\\Users\\HUYNH TIN\\Desktop\\pgcg\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: C:\\Users\\HUYNH TIN\\Desktop\\pgcg\n"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/404.php:14
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Không tìm thấy trang này"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/404.php:18
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Không tìm thấy nội dung nào ở địa chỉ này. Vui lòng thử lại với các liên kết "
+"phía dưới hoặc tìm kiếm"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/404.php:26
+#, fuzzy
+msgid "Most Used Categories"
+msgstr "Không có chuyên mục"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/404.php:43
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Hãy thử tìm kiếm trong lưu trữ của tháng %1$s"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/archive.php:30
+#, php-format
+msgid "Author: %s"
+msgstr "Tác giả: %s"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/archive.php:38
+#, php-format
+msgid "Day: %s"
+msgstr "Ngày: %s"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/archive.php:41
+#, php-format
+msgid "Month: %s"
+msgstr "Tháng: %s"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/archive.php:44
+#, php-format
+msgid "Year: %s"
+msgstr "Năm: %s"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/archive.php:47
+msgid "Asides"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/archive.php:50
+msgid "Images"
+msgstr "Các hình ảnh"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/archive.php:53
+#, fuzzy
+msgid "Videos"
+msgstr "Danh sách video"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/archive.php:56
+msgid "Quotes"
+msgstr "Các trích dẫn"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/archive.php:59
+msgid "Links"
+msgstr "Các liên kết"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/archive.php:62
+#: TIN\Desktop\pgcg/inc/widgets/archives-widget.php:95
+msgid "Archives"
+msgstr "Lưu trữ"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/comments.php:30
+#, fuzzy
+msgid "One comment"
+msgstr "1 phản hồi"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/comments.php:38
+#: TIN\Desktop\pgcg/comments.php:58
+msgid "Comment navigation"
+msgstr "Điều hướng phản hồi"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/comments.php:39
+#: TIN\Desktop\pgcg/comments.php:59
+msgid "&larr; Older Comments"
+msgstr "&larr; Phản hồi cũ hơn"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/comments.php:40
+#: TIN\Desktop\pgcg/comments.php:60
+msgid "Newer Comments &rarr;"
+msgstr "Phản hồi mới hơn &rarr;"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/comments.php:70
+msgid "Comments are closed."
+msgstr "Phản hồi đã bị khóa"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/content-loop-timeline.php:22
+#: TIN\Desktop\pgcg/inc/widgets/news-widget.php:115
+msgid "Read more"
+msgstr "Đọc thêm"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/content-loop.php:27
+#: TIN\Desktop\pgcg/content-video.php:46 TIN\Desktop\pgcg/content.php:17
+msgid "Continue reading &rarr;"
+msgstr "Đọc chi tiết &rarr;"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/content-loop.php:31
+#: TIN\Desktop\pgcg/content-page.php:18
+#: TIN\Desktop\pgcg/full-width-no-title-page.php:26
+#: TIN\Desktop\pgcg/image.php:57 TIN\Desktop\pgcg/inc/template-tags.php:64
+#, fuzzy
+msgid "Pages:"
+msgstr "Trang"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/content-page.php:23
+#: TIN\Desktop\pgcg/full-width-no-title-page.php:31
+#: TIN\Desktop\pgcg/image.php:31 TIN\Desktop\pgcg/image.php:63
+#: TIN\Desktop\pgcg/inc/template-tags.php:87
+#: TIN\Desktop\pgcg/inc/template-tags.php:106
+msgid "Edit"
+msgstr "(Sửa)"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/content-video.php:42
+msgid "Views: "
+msgstr "Lượt xem: "
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/functions.php:54
+msgid "Primary Menu"
+msgstr "Menu Chính"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/functions.php:55
+#, fuzzy
+msgid "Footer Menu"
+msgstr "Menu Ngang"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/functions.php:73
+#, fuzzy
+msgid "Home"
+msgstr "Trang Chủ"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/functions.php:83
+#, fuzzy
+msgid "Sidebar"
+msgstr "Thanh bên trái"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/functions.php:93
+#, fuzzy
+msgid "Footer"
+msgstr "Menu Ngang"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/functions.php:171
+#: TIN\Desktop\pgcg/functions.php:173 TIN\Desktop\pgcg/functions.php:175
+#, fuzzy
+msgid "on"
+msgstr " "
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/functions.php:239
+msgid "Menu"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/functions.php:280
+#, fuzzy
+msgid "Support"
+msgstr "Hỗ trợ yahoo"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/functions.php:282
+msgid ""
+"The best way to contact me with <b>support questions</b> and <b>bug reports</"
+"b> is via the"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/functions.php:282
+msgid "WordPress support forums"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/functions.php:283
+msgid "If you like this theme, I'd appreciate if you could "
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/functions.php:284
+msgid "rate Sugar & Spice at WordPress.org"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/functions.php:284
+#, fuzzy
+msgid "Thanks!"
+msgstr "Cảm ơn, "
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/header.php:37
+msgid "Submit a post or video to share vigilant for everyone."
+msgstr "Gửi một bài viết hoặc video cảnh giác để chia sẻ cho cộng đồng."
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/header.php:37
+msgid "Post a vigilance"
+msgstr "Đăng Một Tin Cảnh Giác"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/header.php:42
+#, fuzzy
+msgid "Skip to content"
+msgstr "Chiều cao video"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/image.php:21
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+"Đã đăng <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s"
+"\">%2$s</time></span> lúc  <a href=\"%3$s\">%4$s &times; %5$s</a> in <a href="
+"\"%6$s\" rel=\"gallery\">%7$s</a>"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/image.php:36
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Trước"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/image.php:37
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Kế sau <span class=\"meta-nav\">&rarr;</span>"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/no-results.php:14
+#, fuzzy
+msgid "Nothing Found"
+msgstr "Không tìm thấy bài viết"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/no-results.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Sẵn sàng để viết bài đầu tiên của bạn? <a href=\"%1$s\">Bắt đầu tại đây</a>."
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/no-results.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Xin lỗi, không có nội dung nào trùng với từ khóa tìm kiếm của bạn. Vui lòng "
+"thử lại với các từ khóa khác."
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/no-results.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Chúng tôi không thể tìm thấy những gì bạn vừa tìm kiếm lại."
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:32
+msgid "Green"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:33
+msgid "Emerald"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:34
+msgid "Mint"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:35
+msgid "Peach"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:36
+msgid "Pink"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:37
+msgid "Red"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:38
+msgid "Violet"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:39
+msgid "Baby Blue"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:40
+msgid "Orange"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:41
+msgid "Yellow"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:44
+msgid "No"
+msgstr "Không chọn"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:44
+msgid "Yes"
+msgstr "Đồng ý"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:48
+msgid "Excerpts only"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:49
+msgid "Full posts"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:50
+msgid "First post full, rest as excerpts"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:54
+msgid "Display date"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:55
+msgid "Display author"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:56
+msgid "Display comments"
+msgstr "Hiển thị phản hồi"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:69
+msgid "Basic Settings"
+msgstr "Cài Đặt Cơ Bản"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:73
+msgid "Color scheme"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:74
+msgid "General color scheme."
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:82
+msgid "Custom logo image"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:83
+msgid "You can upload custom image for your website logo (optional)."
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:89
+msgid "Custom favicon"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:90
+msgid ""
+"Small 16x16px pictures you see beside URL in browser's address bar. Image "
+"should be named <b>favicon.ico</b>"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:96
+#: TIN\Desktop\pgcg/options.php:105
+msgid "Select Layout option"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:97
+msgid "This layout will be applied to Home Page."
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:106
+msgid "This layout will be applied to Archive & Category Pages."
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:114
+msgid "Disable responsive stylesheet"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:116
+msgid ""
+"Setting to \"Yes\" will make your website unresponsive i.e. look the same on "
+"computers and mobile devices."
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:123
+msgid "Post meta display options"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:131
+msgid "Post signature image"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:132
+msgid "Image displayed at the very end of every post."
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:137
+msgid "Menu Settings"
+msgstr "Cài Đặt Menu"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:141
+msgid "Background"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:142
+msgid "Background color of menu"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:149
+msgid "Background Hover"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:150
+msgid "Background color hover of menu"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:157
+msgid "Text Color"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:158
+msgid "Text color of menu"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:165
+msgid "Hover Color"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:166
+msgid "Hover color for text of menu"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:173
+msgid "Border Left Color"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:174
+msgid "Border left color of li menu"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:181
+msgid "Border Right Color"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/options.php:182
+msgid "Border Right color of li menu"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/pagination.php:8
+msgid "Older posts"
+msgstr "Các bài viết cũ hơn"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/pagination.php:9
+msgid "Newer posts"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/search.php:15
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Kết quả tìm kiếm cho: %s"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/single.php:18
+msgid "About the author"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/upload.php:11
+msgid ""
+"We suspect sending your article is not valid with the regulations of the "
+"website, please contact the administrator if you are sure that you are "
+"submitting articles for eligibility."
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/upload.php:21
+#, fuzzy
+msgid "You must enter your name!"
+msgstr "Bạn chưa nhập tên"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/upload.php:27
+#, fuzzy
+msgid "You must enter a valid email address."
+msgstr "Địa chỉ email bạn nhập không đúng"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/upload.php:29
+#, php-format
+msgid ""
+"Sorry, that email address is already used! If it that you, please <a href="
+"\"%s\" title=\"Sign in\">sign in at here</a>"
+msgstr ""
+"Xin lỗi, địa chỉ email này đã có người khác dùng. Nếu đó là bạn, vui lòng <a "
+"href=\"%s\" title=\"Đăng nhập\">Đăng Nhập tại đây</a>"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/upload.php:43
+msgid "User login or email already exists! Please choose another email!"
+msgstr "Tên đăng nhập hoặc email đã tồn tại! Vui lòng thử lại."
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/upload.php:46
+msgid ""
+"Sorry, have a problem when create user, please contact administrator to "
+"solve this problem!"
+msgstr ""
+"Xin lỗi, đã có lỗi xảy ra khi tạo một tài khoản cho bạn, vui lòng liên hệ "
+"Người Quản Trị để giải quyết vấn đề này."
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/upload.php:49
+#, fuzzy
+msgid "You must enter your email!"
+msgstr "Bạn chưa nhập email"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/upload.php:57
+msgid "Title can't be empty!"
+msgstr "Không được để trống tiêu đề"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/upload.php:71
+msgid "You just can't upload image with types: .png, .jpg, jpeg and .gif"
+msgstr ""
+"Bạn chỉ có thể tải lên hình ảnh các loại đuôi: .png, .jpg, .jpeg và .gif"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/upload.php:73
+msgid "You just can't upload file with maximum size 1Mb"
+msgstr "Bạn không thể tải lên hình ảnh có kích thước lớn hơn 1Mb"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/upload.php:79
+msgid "Content can't be empty!"
+msgstr "Không được để trống nội dung"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/upload.php:83
+msgid "Invalid value category"
+msgstr "Giá trị chuyên mục không hợp lệ"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/upload.php:113
+msgid ""
+"- Thank you for vigilance, we will review and publish your vigilance in soon "
+"time."
+msgstr ""
+"- Cảm ơn bạn đã đăng bài, chúng tôi sẽ xét duyệt và cho phép đăng tin cảnh "
+"giác của bạn trong thời gian sớm nhất."
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/upload.php:115
+#, php-format
+msgid ""
+"- We had created a account for you and send detail information of this "
+"account to your email: %s. Next time, you can sign in with this account!"
+msgstr ""
+"- Chúng tôi cũng đã tạo một tài khoản cho bạn và gửi chi tiết thông tin về "
+"email: %s. Thời gian tới, bạn có thể đăng nhập với tài khoản này."
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/upload.php:117
+#, php-format
+msgid "<a href=\"%s\" title=\"Go to home\">Click here</a> to return home page!"
+msgstr ""
+"<a href=\"%s\" title=\"Về trang chủ\">Click vào đây</a> để trở về trang chủ!"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/upload.php:123
+msgid ""
+"Sorry, have a problem while process your request. Please try again, if this "
+"problem continues, contact with administrator!"
+msgstr ""
+"Xin lỗi, có vấn đề xảy ra khi xử lý yêu cầu của bạn. Vui lòng thử lại, nếu "
+"bạn gặp phải vấn đề này một lần nữa, liên hệ Người Quản Trị để được giải "
+"quyết."
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/upload.php:158
+msgid "Authenticate"
+msgstr "Xác thực"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/upload.php:160
+#, php-format
+msgid ""
+"Please enter your name and your email into input below, if you had a "
+"account, you can <a href=\"%s\" title=\"Login\">sign in here</a>."
+msgstr ""
+"Vui lòng điền tên và email của bạn vào các ô bên dưới, nếu bạn đã có một tài "
+"khoản, bạn có thể <a href=\"%s\" title=\"Đăng nhập\">đăng nhập tại đây</a>."
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/upload.php:161
+#, php-format
+msgid ""
+"To be able to enjoy the benefits and incentives for members when you send "
+"post, you should <a href=\"%s\" title=\"Sign Up\">sign up here</a>."
+msgstr ""
+"Để hưởng được đầy đủ các quyền và lợi ích cho thành viên gửi bài, bạn nên <a "
+"href=\"%s\" title=\"Đăng Ký\">Đăng ký tài khoản tại đây</a>."
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/upload.php:164
+#, fuzzy
+msgid "Your Name"
+msgstr "Tên"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/upload.php:168
+#, fuzzy
+msgid "Your Email"
+msgstr " (Email: "
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/upload.php:176
+#, fuzzy
+msgid "New Vigilance"
+msgstr "Đăng Một Tin Cảnh Giác"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/upload.php:178
+#: TIN\Desktop\pgcg/inc/widgets/about-widget.php:78
+#: TIN\Desktop\pgcg/inc/widgets/archives-widget.php:100
+#: TIN\Desktop\pgcg/inc/widgets/contact-widget.php:85
+#: TIN\Desktop\pgcg/inc/widgets/social-widget.php:92
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/upload.php:182
+msgid "Thumbnail"
+msgstr "Ảnh Đại Diện"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/upload.php:184
+msgid "Allow types: .png, .jpg, .jpeg, .gif"
+msgstr "Loại hình ảnh cho phép: .png, .jpg, .jpeg, .gif"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/upload.php:187
+#, fuzzy
+msgid "Video URL"
+msgstr "Video"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/upload.php:190
+msgid "Content"
+msgstr "Nội Dung"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/upload.php:197
+#: TIN\Desktop\pgcg/inc/widgets/news-widget.php:299
+msgid "Select Category:"
+msgstr "Chọn mục:"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/upload.php:224
+msgid "Send"
+msgstr "Đăng"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/add_meta_boxes.php:122
+msgid "Upload Video"
+msgstr "Tải lên video"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/add_meta_boxes.php:234
+msgid "Select/Upload Video"
+msgstr "Chọn/Upload Video"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/add_meta_boxes.php:234
+msgid "Select video from media or upload new video"
+msgstr "Chọn video từ thư viện hoặc upload video mới"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/extras.php:70
+#, fuzzy, php-format
+msgid "Page %s"
+msgstr "Trang"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/fom-functions.php:92
+msgid "Not exists taxonomy"
+msgstr "Không tồn tại"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/fom-functions.php:107
+msgid "Detail Video"
+msgstr "Chi tiết video"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/fom-functions.php:356
+msgid "Page"
+msgstr "Trang"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/fom-functions.php:381
+#, php-format
+msgid "Page %s of %s"
+msgstr "Trang %s của %s"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/fom-functions.php:383
+msgid "First "
+msgstr "Đầu"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/fom-functions.php:387
+msgid "Last "
+msgstr "Cuối"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/fom-functions.php:394
+#, fuzzy
+msgid "Articles Related"
+msgstr "Video liên quan"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/template-tags.php:34
+#, fuzzy
+msgid "Post navigation"
+msgstr "Điều hướng phản hồi"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/template-tags.php:37
+#, fuzzy
+msgid "Navigation"
+msgstr "Hiển thị thanh điều hướng"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/template-tags.php:38
+msgid "&larr;"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/template-tags.php:39
+msgid "&rarr;"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/template-tags.php:44
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Bài cũ hơn"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/template-tags.php:48
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Bài mới hơn <span class=\"meta-nav\">&rarr;</span>"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/template-tags.php:87
+msgid "Pingback:"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/template-tags.php:98
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\"> đã nói:</span>"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/template-tags.php:103
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s tại %2$s"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/template-tags.php:109
+msgid "Your comment is awaiting moderation."
+msgstr "Bình luận của bạn đang chờ được xét duyệt"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/template-tags.php:232
+#, fuzzy
+msgid "No Comments"
+msgstr "Không có phản hồi nào"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/template-tags.php:234
+#, fuzzy
+msgid " Comments"
+msgstr "Nội dung"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/template-tags.php:236
+#, fuzzy
+msgid "1 Comment"
+msgstr "1 phản hồi"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/template-tags.php:239
+#, fuzzy
+msgid "Comments off"
+msgstr "Nội dung"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/template-tags.php:253
+msgid "by"
+msgstr "bởi "
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/template-tags.php:255
+#, fuzzy, php-format
+msgid "View all posts by %s"
+msgstr "Xem tất cả các bài viết của "
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/template-tags.php:300
+#: TIN\Desktop\pgcg/inc/template-tags.php:303
+msgid ", "
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/template-tags.php:308
+#, php-format
+msgid "This entry was tagged %2$s."
+msgstr "Tag bài viết: %2$s."
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/template-tags.php:314
+#, php-format
+msgid "This entry was posted in %1$s and tagged %2$s."
+msgstr "Bài viết thuộc các chuyên mục %1$s và được gắn các tag %2$s."
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/template-tags.php:316
+#, php-format
+msgid "This entry was posted in %1$s."
+msgstr "Bài viết thuộc các chuyên mục: %1$s."
+
+#: C:\Users\HUYNH
+#: TIN\Desktop\pgcg/inc/options-framework/options-framework.php:182
+#: TIN\Desktop\pgcg/inc/options-framework/options-framework.php:183
+#: TIN\Desktop\pgcg/inc/options-framework/options-framework.php:416
+#, fuzzy
+msgid "Theme Options"
+msgstr " Cài đặt"
+
+#: C:\Users\HUYNH
+#: TIN\Desktop\pgcg/inc/options-framework/options-framework.php:228
+msgid "Clear"
+msgstr "Xóa rỗng"
+
+#: C:\Users\HUYNH
+#: TIN\Desktop\pgcg/inc/options-framework/options-framework.php:229
+#, fuzzy
+msgid "Default"
+msgstr "Mặc định: Video"
+
+#: C:\Users\HUYNH
+#: TIN\Desktop\pgcg/inc/options-framework/options-framework.php:230
+#, fuzzy
+msgid "Select Color"
+msgstr "Chọn chuyên mục:"
+
+#: C:\Users\HUYNH
+#: TIN\Desktop\pgcg/inc/options-framework/options-framework.php:262
+msgid "Ready for more? Upgrade to Pro!"
+msgstr ""
+
+#: C:\Users\HUYNH
+#: TIN\Desktop\pgcg/inc/options-framework/options-framework.php:263
+msgid ""
+"Custom Home Page with slider, unlimited colors, additional theme options</b> "
+"and more!"
+msgstr ""
+
+#: C:\Users\HUYNH
+#: TIN\Desktop\pgcg/inc/options-framework/options-framework.php:263
+msgid "Upgrade now!"
+msgstr ""
+
+#: C:\Users\HUYNH
+#: TIN\Desktop\pgcg/inc/options-framework/options-framework.php:280
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: C:\Users\HUYNH
+#: TIN\Desktop\pgcg/inc/options-framework/options-framework.php:312
+msgid "Default options restored."
+msgstr ""
+
+#: C:\Users\HUYNH
+#: TIN\Desktop\pgcg/inc/options-framework/options-framework.php:366
+#, fuzzy
+msgid "Options saved."
+msgstr " Cài đặt"
+
+#: C:\Users\HUYNH
+#: TIN\Desktop\pgcg/inc/options-framework/options-media-uploader.php:51
+msgid "No file chosen"
+msgstr ""
+
+#: C:\Users\HUYNH
+#: TIN\Desktop\pgcg/inc/options-framework/options-media-uploader.php:54
+#: TIN\Desktop\pgcg/inc/options-framework/options-media-uploader.php:113
+msgid "Upload"
+msgstr ""
+
+#: C:\Users\HUYNH
+#: TIN\Desktop\pgcg/inc/options-framework/options-media-uploader.php:56
+#: TIN\Desktop\pgcg/inc/options-framework/options-media-uploader.php:114
+msgid "Remove"
+msgstr ""
+
+#: C:\Users\HUYNH
+#: TIN\Desktop\pgcg/inc/options-framework/options-media-uploader.php:59
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: C:\Users\HUYNH
+#: TIN\Desktop\pgcg/inc/options-framework/options-media-uploader.php:83
+#, fuzzy
+msgid "View File"
+msgstr "Lượt xem: "
+
+#: C:\Users\HUYNH
+#: TIN\Desktop\pgcg/inc/options-framework/options-sanitize.php:232
+msgid "No Repeat"
+msgstr ""
+
+#: C:\Users\HUYNH
+#: TIN\Desktop\pgcg/inc/options-framework/options-sanitize.php:233
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: C:\Users\HUYNH
+#: TIN\Desktop\pgcg/inc/options-framework/options-sanitize.php:234
+msgid "Repeat Vertically"
+msgstr ""
+
+#: C:\Users\HUYNH
+#: TIN\Desktop\pgcg/inc/options-framework/options-sanitize.php:235
+msgid "Repeat All"
+msgstr ""
+
+#: C:\Users\HUYNH
+#: TIN\Desktop\pgcg/inc/options-framework/options-sanitize.php:248
+msgid "Top Left"
+msgstr ""
+
+#: C:\Users\HUYNH
+#: TIN\Desktop\pgcg/inc/options-framework/options-sanitize.php:249
+msgid "Top Center"
+msgstr ""
+
+#: C:\Users\HUYNH
+#: TIN\Desktop\pgcg/inc/options-framework/options-sanitize.php:250
+msgid "Top Right"
+msgstr ""
+
+#: C:\Users\HUYNH
+#: TIN\Desktop\pgcg/inc/options-framework/options-sanitize.php:251
+#, fuzzy
+msgid "Middle Left"
+msgstr "Thanh bên trái"
+
+#: C:\Users\HUYNH
+#: TIN\Desktop\pgcg/inc/options-framework/options-sanitize.php:252
+msgid "Middle Center"
+msgstr ""
+
+#: C:\Users\HUYNH
+#: TIN\Desktop\pgcg/inc/options-framework/options-sanitize.php:253
+#, fuzzy
+msgid "Middle Right"
+msgstr "Thanh bên phải"
+
+#: C:\Users\HUYNH
+#: TIN\Desktop\pgcg/inc/options-framework/options-sanitize.php:254
+msgid "Bottom Left"
+msgstr ""
+
+#: C:\Users\HUYNH
+#: TIN\Desktop\pgcg/inc/options-framework/options-sanitize.php:255
+#, fuzzy
+msgid "Bottom Center"
+msgstr "Bạn chưa nhập "
+
+#: C:\Users\HUYNH
+#: TIN\Desktop\pgcg/inc/options-framework/options-sanitize.php:256
+msgid "Bottom Right"
+msgstr ""
+
+#: C:\Users\HUYNH
+#: TIN\Desktop\pgcg/inc/options-framework/options-sanitize.php:269
+msgid "Scroll Normally"
+msgstr ""
+
+#: C:\Users\HUYNH
+#: TIN\Desktop\pgcg/inc/options-framework/options-sanitize.php:270
+msgid "Fixed in Place"
+msgstr ""
+
+#: C:\Users\HUYNH
+#: TIN\Desktop\pgcg/inc/options-framework/options-sanitize.php:344
+msgid "Normal"
+msgstr ""
+
+#: C:\Users\HUYNH
+#: TIN\Desktop\pgcg/inc/options-framework/options-sanitize.php:345
+msgid "Italic"
+msgstr ""
+
+#: C:\Users\HUYNH
+#: TIN\Desktop\pgcg/inc/options-framework/options-sanitize.php:346
+msgid "Bold"
+msgstr ""
+
+#: C:\Users\HUYNH
+#: TIN\Desktop\pgcg/inc/options-framework/options-sanitize.php:347
+msgid "Bold Italic"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/about-widget.php:13
+msgid "About section with autor image"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/about-widget.php:19
+msgid "Sugar & Spice: About"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/about-widget.php:73
+msgid "About"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/about-widget.php:84
+msgid "About the author text"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/about-widget.php:90
+msgid "Author image URL"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/about-widget.php:92
+msgid ""
+"Suggested image dimensions: 120x120px or 100x100px. Image will be rounded "
+"automatically!"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/about-widget.php:96
+msgid "Read more URL"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/about-widget.php:101
+msgid "Read more button text"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/archives-widget.php:13
+msgid ""
+"Displays a list of monthly archives, categories or pages in two columns."
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/archives-widget.php:19
+msgid "Sugar & Spice: Archives / Categories / Pages List"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/archives-widget.php:107
+msgid "Type"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/archives-widget.php:109
+msgid "archives"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/archives-widget.php:110
+#, fuzzy
+msgid "categories"
+msgstr "Chuyên Mục"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/archives-widget.php:111
+msgid "pages"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/contact-widget.php:13
+msgid "Displays conatct info with icons"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/contact-widget.php:19
+msgid "Sugar & Spice: Contact widget"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/contact-widget.php:45
+#: TIN\Desktop\pgcg/inc/widgets/contact-widget.php:90
+msgid "Address"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/contact-widget.php:49
+#: TIN\Desktop\pgcg/inc/widgets/contact-widget.php:95
+msgid "Phone"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/contact-widget.php:53
+#: TIN\Desktop\pgcg/inc/widgets/contact-widget.php:100
+msgid "Email"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/contact-widget.php:80
+msgid "Contact"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/news-widget.php:5
+#: TIN\Desktop\pgcg/inc/widgets/news-widget.php:6
+msgid "Show News"
+msgstr "Hiển thị tin tức"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/news-widget.php:68
+msgid ">> Xem Thêm"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/news-widget.php:264
+msgid "Title:"
+msgstr "Tiêu đề:"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/news-widget.php:266
+msgid "Default: Recent Posts."
+msgstr "Mặc định: Bài Mới"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/news-widget.php:269
+msgid "Select Post Type:"
+msgstr "Chọn loại bài viết"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/news-widget.php:284
+msgid "Select Type:"
+msgstr "Chọn loại:"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/news-widget.php:301
+msgid "All Categories"
+msgstr "Tất cả"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/news-widget.php:311
+msgid "Hold down <strong>Ctrl</strong> key to select multiple categories."
+msgstr "Nhấn và giữ <strong>Ctrl</strong> để chọn nhiều"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/news-widget.php:314
+msgid "Setting featured"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/news-widget.php:316
+#: TIN\Desktop\pgcg/inc/widgets/news-widget.php:335
+msgid "Width of thumb:"
+msgstr "Chiều rộng ảnh:"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/news-widget.php:320
+#: TIN\Desktop\pgcg/inc/widgets/news-widget.php:339
+msgid "Height of thumb:"
+msgstr "Chiều cao ảnh:"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/news-widget.php:324
+#: TIN\Desktop\pgcg/inc/widgets/news-widget.php:343
+msgid "Number to Display:"
+msgstr "Số lượng hiển thị:"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/news-widget.php:328
+#: TIN\Desktop\pgcg/inc/widgets/news-widget.php:346
+msgid "Character excerpt:"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/news-widget.php:333
+msgid "Setting more news"
+msgstr "Tùy chọn cho hiển thị thêm"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/news-widget.php:351
+msgid "Show time?"
+msgstr "Hiển thị thời gian?"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/news-widget.php:354
+#, fuzzy
+msgid "Setting general"
+msgstr "Tùy Chọn Chung"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/news-widget.php:356
+#, fuzzy
+msgid "Select type display:"
+msgstr "Chọn kiểu hiển thị:"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/news-widget.php:358
+msgid "Large Image"
+msgstr "Ảnh lớn"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/news-widget.php:359
+msgid "Small Image"
+msgstr "Ảnh nhỏ"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/news-widget.php:360
+msgid "Video"
+msgstr "Video"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/news-widget.php:361
+msgid "Timeline"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/news-widget.php:362
+msgid "On Sidebar"
+msgstr "Trên Sidebar"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/news-widget.php:366
+msgid "Width of Content:"
+msgstr "Chiều rộng của khung:"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/news-widget.php:368
+#: TIN\Desktop\pgcg/inc/widgets/news-widget.php:376
+msgid "Full width"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/news-widget.php:369
+msgid "Part Two"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/news-widget.php:370
+msgid "Part Three"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/news-widget.php:374
+msgid "Column of Video:"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/news-widget.php:377
+msgid "2 Column"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/news-widget.php:378
+msgid "3 Column"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/news-widget.php:379
+msgid "4 Column"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/news-widget.php:380
+msgid "5 Column"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/news-widget.php:385
+#, fuzzy
+msgid "Link for header:"
+msgstr "Gắn liên kết cho tiêu đề?"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/news-widget.php:388
+msgid ""
+"If set empty, link of first category choose above will be set for link header"
+msgstr "Lấy liên kết của chuyên mục đầu tiên gắn cho tiêu đề"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/news-widget.php:391
+msgid "Add header:"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/news-widget.php:396
+msgid "Hiển thị nút \"xem thêm\""
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/news-widget.php:399
+msgid "Tag of title:"
+msgstr "Tag cho tiêu đề:"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/news-widget.php:403
+msgid "Order by:"
+msgstr "Sắp xếp theo:"
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/social-widget.php:13
+msgid "Displays icons to social media profiles."
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/social-widget.php:19
+msgid "Sugar & Spice: Social media icons"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/social-widget.php:96
+msgid ""
+"Enter full URL. If you don't want to display element, leave it's URL field "
+"empty."
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/social-widget.php:100
+msgid "URL address of your Facebook profile or page"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/social-widget.php:106
+msgid "URL address of your Twitter profile"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/social-widget.php:112
+msgid "URL address of your Google+ profile"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/social-widget.php:118
+msgid "URL address of your Pinterest profile"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/social-widget.php:124
+msgid "URL address of your Instagram profile"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/social-widget.php:130
+msgid "URL address of your YouTube channel"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/social-widget.php:136
+msgid "URL address of your Flickr profile page"
+msgstr ""
+
+#: C:\Users\HUYNH TIN\Desktop\pgcg/inc/widgets/social-widget.php:142
+msgid "URL address of your RSS feed"
+msgstr ""
+
+#~ msgid "My 404 page is better than yours."
+#~ msgstr "Lỗi 404, liên kết không tồn tại!"
+
+#~ msgid ""
+#~ "Welcome to the seedy underbelly of this otherwise upstanding Web site. "
+#~ "Please choose from the following in order to get back on track:"
+#~ msgstr ""
+#~ "Xin lỗi, liên kết mà bạn chọn không tồn tại trên trang web này. Có thể "
+#~ "các lựa chọn bên dưới sẽ giúp bạn dễ theo dõi nội dung của website hơn:"
+
+#~ msgid ""
+#~ "Try the ol back button on your browser&#8212;it <em>is</em> the most used "
+#~ "button on the Web, you know."
+#~ msgstr ""
+#~ "Thử bấm nút quay lại (Back) trên trình duyệt của bạn để quay trở lại liên "
+#~ "kết trước."
+
+#~ msgid "Head on back"
+#~ msgstr "Nhấn vào logo hoặc chọn FOM trên thanh menu để trở về trang chủ. "
+
+#~ msgid "home"
+#~ msgstr "trang chủ"
+
+#~ msgid "Try the navigation menu at the top &uarr; of the page."
+#~ msgstr ""
+#~ "Click vào các nội dung trên thanh menu để đi tới nội dung tiêu biểu của "
+#~ "website."
+
+#~ msgid "Search or click on a link over in the sidebar."
+#~ msgstr ""
+#~ "Sử dụng ô tìm kiếm phía trên cùng của website để tìm kiếm nội dung bạn "
+#~ "cần."
+
+#~ msgid "Subscribe to this site's feed"
+#~ msgstr "Đăng ký nhận các tin mới từ website "
+
+#~ msgid "so you don't have to come here for updates."
+#~ msgstr "để bạn có thể đọc các nội dung mới mà không cần phải vào trang web"
+
+#~ msgid ""
+#~ "Relive the glory days of high school football and punt, but <em>please</"
+#~ "em> do not strain your groin."
+#~ msgstr "Chúc vui vẻ!"
+
+#~ msgid "Welp, we couldn't find that..."
+#~ msgstr "Đang cập nhật nội dung..."
+
+#~ msgid "One thought on &ldquo;%2$s&rdquo;"
+#~ msgstr "Có một phản hồi cho  &ldquo;%2$s&rdquo;"
+
+#~ msgid "You forgot to enter Subject."
+#~ msgstr "Bạn chưa nhập tiêu đề"
+
+#~ msgid "You forgot to enter your comments."
+#~ msgstr "Bạn chưa nhập nội dung"
+
+#~ msgid " from "
+#~ msgstr " từ "
+
+#~ msgid "From: "
+#~ msgstr "Từ: "
+
+#~ msgid " Comments: "
+#~ msgstr " Nội dung:"
+
+#~ msgid "\\r\\n Reply-To: "
+#~ msgstr "\\r\\n Trả lời đến: "
+
+#~ msgid "Hi "
+#~ msgstr "Xin chào "
+
+#~ msgid "Thank you for sending us mail!"
+#~ msgstr "Cảm ơn bạn đã gửi mail cho chúng tôi!"
+
+#~ msgid "You entered an invalid "
+#~ msgstr "Bạn đã nhập sai "
+
+#~ msgid ""
+#~ "<p class=\"thanks\"><strong>Thanks!</strong> Your email was successfully "
+#~ "sent. I check my email all the time, so I should be in touch soon.</p>"
+#~ msgstr ""
+#~ "<p class=\"thanks\"><strong>Cảm ơn!</strong> Email của bạn đã được gửi, "
+#~ "chúng tôi sẽ liên hệ với bạn trong thời gian sớm nhất.</p>"
+
+#~ msgid "Your email was successfully sent. I will be in touch soon."
+#~ msgstr "Email của bạn đã được gửi. Chúng tôi sẽ liên hệ sớm với bạn."
+
+#~ msgid "There was an error submitting the form."
+#~ msgstr "Đã có lỗi xảy ra khi gửi thông tin."
+
+#~ msgid "Subject"
+#~ msgstr "Tiêu đề"
+
+#~ msgid "Send a copy of this email to yourself"
+#~ msgstr "Gửi một bản copy đến email của tôi"
+
+#~ msgid "Send &raquo;"
+#~ msgstr "Gửi &raquo;"
+
+#~ msgid "Sidebar Footer"
+#~ msgstr "Thanh bên dưới (Footer)"
+
+#~ msgid "Select Language"
+#~ msgstr "Chọn Ngôn Ngữ"
+
+#~ msgid "Go to Home"
+#~ msgstr "Tới trang chủ"
+
+#~ msgid "Edit this post"
+#~ msgstr "Sửa bài viết"
+
+#~ msgid "Search Results for: \"%s\""
+#~ msgstr "Kết quả tìm kiếm cho: \"%s\" "
+
+#~ msgid "Welp, we couldn't find for "
+#~ msgstr "Rất tiếc, không tìm thấy nội dung liên quan cho "
+
+#~ msgid "Search..."
+#~ msgstr "Từ khóa tìm kiếm..."
+
+#~ msgid "<p>Read the rest of this entry &raquo;</p>"
+#~ msgstr "<p>Đọc phần còn lại &raquo;</p>"
+
+#~ msgid "Categories: "
+#~ msgstr "Chuyên Mục: "
+
+#~ msgid "<p><strong>Pages:</strong> "
+#~ msgstr "<p><strong>Trang:</strong> "
+
+#~ msgid "Sorry, no posts matched your criteria. Wanna search instead?"
+#~ msgstr ""
+#~ "Rất tiếc, không có bài viết phù hợp với tiêu chí của bạn. Bạn có muốn tìm "
+#~ "kiếm bài viết khác?"
+
+#~ msgid "Choose Language"
+#~ msgstr "Chọn Ngôn Ngữ"
+
+#~ msgid "Choose Language for the theme"
+#~ msgstr "Chọn ngôn ngữ cho giao diện"
+
+#~ msgid "VietNamese"
+#~ msgstr "Tiếng Việt"
+
+#~ msgid "English"
+#~ msgstr "English"
+
+#~ msgid "Email for Contact Form"
+#~ msgstr "Email cho form liên hệ"
+
+#~ msgid "Paste email address will to receive comments from contact form"
+#~ msgstr "Vui lòng điền email sẽ nhận thông tin liên hệ"
+
+#~ msgid "Enable Slider"
+#~ msgstr "Kích hoạt Slide"
+
+#~ msgid "Enable"
+#~ msgstr "Kích hoạt"
+
+#~ msgid "Disable"
+#~ msgstr "Vô hiệu hóa"
+
+#~ msgid "Choose Category Images"
+#~ msgstr "Chọn chuyên mục ảnh"
+
+#~ msgid "Effects"
+#~ msgstr "Hiệu ứng"
+
+#~ msgid "Number Slide Show"
+#~ msgstr "Số lượng hiển thị"
+
+#~ msgid "Show"
+#~ msgstr "Hiển thị"
+
+#~ msgid "Hide"
+#~ msgstr "Ẩn"
+
+#~ msgid "General Setting"
+#~ msgstr "Tùy Chọn Chung"
+
+#~ msgid "Save changes"
+#~ msgstr "Lưu thay đổi"
+
+#~ msgid "Reset"
+#~ msgstr "Trả về mặc định"
+
+#~ msgid "FOM Statistics"
+#~ msgstr "Thống kê (bởi FOM)"
+
+#~ msgid "Show Statistics"
+#~ msgstr "Hiển thị thống kê"
+
+#~ msgid "Statistics"
+#~ msgstr "Thống kê"
+
+#~ msgid "User Online"
+#~ msgstr "Đang Online"
+
+#~ msgid "Today Visit"
+#~ msgstr "Truy Cập Hôm Nay"
+
+#~ msgid "Total Visit"
+#~ msgstr "Tổng Truy Cập"
+
+#~ msgid "Show Current Online"
+#~ msgstr "Hiển thị số người đang Online"
+
+#~ msgid "Adder for Current Online"
+#~ msgstr "Cộng thêm vào số người đang Online"
+
+#~ msgid "Show total visit today"
+#~ msgstr "Hiển thị số người truy cập hôm nay"
+
+#~ msgid "Adder for Visit Today"
+#~ msgstr "Cộng thêm vào số người truy cập hôm nay"
+
+#~ msgid "Show total visit"
+#~ msgstr "Hiển thị tổng truy cập"
+
+#~ msgid "Show News on sidebar"
+#~ msgstr "Hiển thị tin tức trên sidebar"
+
+#~ msgid "Max number of categories to display"
+#~ msgstr "Số lượng hiển thị"
+
+#~ msgid "Size of thumb (width x height):"
+#~ msgstr "Cỡ hình ảnh (rộng x cao):"
+
+#~ msgid "Size of thumbnail of posts. (default 80 x 60px)"
+#~ msgstr "Cỡ hình ảnh hiển thị. (mặc định  80 x 60px)"
+
+#~ msgid "Link icon for title:"
+#~ msgstr "Đường dẫn ảnh cho tiêu đề:"
+
+#~ msgid "Apply effect?"
+#~ msgstr "Áp dụng hiệu ứng?"
+
+#~ msgid "Show News in Home Page"
+#~ msgstr "Hiển thị tin tức ở Trang Chủ"
+
+#~ msgid "Show News Home"
+#~ msgstr "Tin Tức Trang Chủ"
+
+#~ msgid "Height thumb of more news:"
+#~ msgstr "Chiều cao ảnh ở tin tức con"
+
+#~ msgid "Readmore to Display:"
+#~ msgstr "Số hiển thị thêm:"
+
+#~ msgid "Show Post Of Taxonomy"
+#~ msgstr "Hiển thị bài viết của Taxonomy"
+
+#~ msgid "New Products"
+#~ msgstr "Sản Phẩm Mới"
+
+#~ msgid "Number display:"
+#~ msgstr "Số lượng:"
+
+#~ msgid "Show excerpt?"
+#~ msgstr "Hiển thị trích dẫn"
+
+#~ msgid "Feature post/product:"
+#~ msgstr "Thuộc tính lọc:"
+
+#~ msgid "Only show post/product isset this metafield"
+#~ msgstr "Chỉ hiện thị các bài viết có thuộc tính trên"
+
+#~ msgid "Order:"
+#~ msgstr "Sắp xếp theo:"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Date"
+#~ msgstr "Ngày"
+
+#~ msgid "Modified"
+#~ msgstr "Số lần sửa đổi"
+
+#~ msgid "Parent ID"
+#~ msgstr "ID cha"
+
+#~ msgid "Random"
+#~ msgstr "Ngẫu nhiên"
+
+#~ msgid "Comment Count"
+#~ msgstr "Số phản hồi"
+
+#~ msgid "Meta Value"
+#~ msgstr "Giá trị meta"
+
+#~ msgid "Meta Value as Number"
+#~ msgstr "Giá trị meta dạng số"
+
+#~ msgid "post__in attribute"
+#~ msgstr "Các id trong post__in"
+
+#~ msgid "Decrease"
+#~ msgstr "Giảm dần"
+
+#~ msgid "Increase"
+#~ msgstr "Tăng dần"
+
+#~ msgid "Support Online"
+#~ msgstr "Hỗ Trợ Trực Tuyến"
+
+#~ msgid "Support Online by nick yahoo"
+#~ msgstr "Hỗ trợ trực tuyến qua nick yahoo"
+
+#~ msgid "Nick yahoo,text; Nick Yahoo, text"
+#~ msgstr "Nick yahoo, mô tả; Nick Yahoo, mô tả"
+
+#~ msgid ""
+#~ "example: Mr.Tin,Tinhuynhquoctin,0985984021; Mr.Tung,itvinhloi,0983559554"
+#~ msgstr ""
+#~ "Ví dụ: Mr.Tin,Tinhuynhquoctin,0985984021; Mr.Tung,itvinhloi,0983559554"
+
+#~ msgid "Width"
+#~ msgstr "Rộng"
+
+#~ msgid "Height"
+#~ msgstr "Cao"
+
+#, fuzzy
+#~ msgid "sidebar-footer"
+#~ msgstr "Thanh bên dưới (Footer)"
+
+#, fuzzy
+#~ msgid "Select the menu will show services"
+#~ msgstr "Chọn chuyên mục sẻ hiển thị chuyên mục con"
+
+#~ msgid "% comments"
+#~ msgstr "% phản hồi"
+
+#~ msgid "Log out of this account"
+#~ msgstr "Thoát khỏi tài khoản này"
+
+#~ msgid "Mail"
+#~ msgstr "Email"
+
+#~ msgid "(Will not public)"
+#~ msgstr "(sẽ được giữ bí mật)"
+
+#~ msgid "Designed by "
+#~ msgstr "Thiết kể bởi "
+
+#~ msgid ". All Rights Reserved"
+#~ msgstr ". Tất cả bản quyền được bảo vệ"
+
+#~ msgid "Product Category"
+#~ msgstr "Danh Mục Sản Phẩm"
+
+#~ msgid "Related %s"
+#~ msgstr "%s Liên Quan"
+
+#~ msgid "Show in Home page"
+#~ msgstr "Hiển thị ở Trang Chủ"
+
+#~ msgid "Show Home Page"
+#~ msgstr "Hiển thị trang chủ"
+
+#~ msgid "Uncategorized"
+#~ msgstr "Category Chung"
+
+#~ msgid "Category:"
+#~ msgstr "Chuyên Mục"
+
+#~ msgid "No Select Category"
+#~ msgstr "Không chọn chuyên mục"
+
+#~ msgid "To unable category and using post/page, select No Select Category"
+#~ msgstr ""
+#~ "Để dùng Bài Viết/Trang, cần vô hiệu hóa Chuyên Mục bằng cách chọn 'Không "
+#~ "chọn chuyên mục'"
+
+#~ msgid "Enter id Post or Page:"
+#~ msgstr "Nhập vào ID của Bài viết/Trang"
+
+#~ msgid ""
+#~ "Enter ID of Post or Page want show! (To get ID of Post/Page, go to Post/"
+#~ "Page Manager, click to Post/Page want get ID, and see at Address Browser, "
+#~ "this is same \"/post.php?post=12\", ID of Post/Page is 12"
+#~ msgstr ""
+#~ "Nhập vào ID của Bài Viết/Trang bạn muốn hiển thị! (Để lấy ID của Bài Viết/"
+#~ "Trang, vào phần quản lý của Bài Viết/Trang, click vào Bài Viết/Trang muốn "
+#~ "lấy ID, nhìn trên thanh địa chỉ của trình duyệt, sẽ có dạng \"/post.php?"
+#~ "post=12\", ID của Bài Viết/Trang là 12"
+
+#~ msgid "Link Custom:"
+#~ msgstr "Link tùy chỉnh:"
+
+#~ msgid ""
+#~ "To use link custom, you need select No Select Category and empty ID Post/"
+#~ "Page above."
+#~ msgstr ""
+#~ "Để dùng link tùy chỉnh, bạn cần chọn 'Không chọn chuyên mục' và để trống "
+#~ "ID Bài Viết/Trang"
+
+#~ msgid "Description:"
+#~ msgstr "Mô tả:"
+
+#~ msgid "Icon Image:"
+#~ msgstr "Ảnh đại diện:"
+
+#~ msgid ""
+#~ "You can enter link of Icon Image or Upload icon image by click to button "
+#~ "Upload Image"
+#~ msgstr ""
+#~ "bạn cần nhập link của Ảnh đại diện hoặc tải ảnh lên bằng cách kích vào "
+#~ "nút Tải Ảnh"
+
+#~ msgid "Copyright 2012 by"
+#~ msgstr "Bản quyền của "
+
+#~ msgid ""
+#~ "This post is password protected. Enter the password to view comments."
+#~ msgstr ""
+#~ "Bài viết này được bảo vệ bằng mật khẩu. Vui lòng nhập mật khẩu để xem các "
+#~ "phản hồi."
+
+#, fuzzy
+#~ msgid "sidebar-topfooter"
+#~ msgstr "Thanh bên dưới (Footer)"
+
+#~ msgid "Category Posts"
+#~ msgstr "Bài viết của Chuyên Mục"
+
+#~ msgid "date"
+#~ msgstr "ngày"
+
+#~ msgid "title"
+#~ msgstr "tên"
+
+#~ msgid "random"
+#~ msgstr "ngẫu nhiên"
+
+#~ msgid "ASC"
+#~ msgstr "Tăng"
+
+#~ msgid "DESC"
+#~ msgstr "Giảm"
+
+#, fuzzy
+#~ msgid "use post categories"
+#~ msgstr "Không có chuyên mục"
+
+#~ msgid "Number of posts to show"
+#~ msgstr "Sô bài viết sẽ hiển thị"
+
+#~ msgid "Reverse sort order (ascending)"
+#~ msgstr "Chọn cách sắp xếp"
+
+#~ msgid "Make widget title link"
+#~ msgstr "Gắn link vào Tiêu Đề"
+
+#~ msgid "Excerpt length (in words):"
+#~ msgstr "Số kí tự của trích dẫn:"
+
+#~ msgid "Show number of comments"
+#~ msgstr "Hiển thị số phản hồi"
+
+#~ msgid "Show post thumbnail"
+#~ msgstr "Hiển thị ảnh"
+
+#~ msgid "W"
+#~ msgstr "Rộng"
+
+#~ msgid "H"
+#~ msgstr "Cao"
+
+#~ msgid ""
+#~ "Please choose elements will show at homepage, you can setting this at "
+#~ "Dashboard -> Appearance -> FOM Options"
+#~ msgstr ""
+#~ "Vui lòng chọn phần tử sẽ hiển thị ở trang chủ, bạn cần cấu hình ở Trang "
+#~ "Quản Trị -> Giao Diện -> FOM Cài Đặt"
+
+#, fuzzy
+#~ msgid "sidebar-right-post"
+#~ msgstr "Thanh bên phải"
+
+#, fuzzy
+#~ msgid "sidebar-right"
+#~ msgstr "Thanh bên phải"
+
+#~ msgid "Loading........"
+#~ msgstr "Đang tải..."
+
+#~ msgid ""
+#~ "Please Call 0983.559.554 to get information of this domain, thank you!"
+#~ msgstr "Vui lòng gọi 0983.559.554 để biết thông tin của domain này, cảm ơn!"
+
+#~ msgid "Sorry, error while get data"
+#~ msgstr "Xin lỗi, lỗi khi truyền dữ liệu"
+
+#~ msgid "Sorry, have a problem while load data!"
+#~ msgstr "Xin lỗi, có lỗi phát sinh trong khi tải dữ liệu."
+
+#~ msgid "Error"
+#~ msgstr "Lỗi"
+
+#~ msgid "You can check more 5 domain in same time"
+#~ msgstr "Bạn chỉ có thể kiểm tra tối đa 5 domain cùng một lúc"
+
+#~ msgid "+ Domain name too short \\n"
+#~ msgstr "+ Tên miền phải nhiều hơn 2 kí tự \\n"
+
+#~ msgid "+ Domain includes only the characters A-Z, 0-9 and minus (-) \\n"
+#~ msgstr ""
+#~ "+ Tên miền chỉ được bao gồm các kí tự từ a-z, 0-9 và dấu gạch ngang (-) "
+#~ "\\n"
+
+#~ msgid "+ Domain name can\\'t contain characters: -- \\n"
+#~ msgstr "+ Tên miền không được chứa các kí tự đặc biệt"
+
+#~ msgid "+ Domain name can\\'t begin/end with: - \\n"
+#~ msgstr "+ Tên miền không được bắt đầu và kết thúc bằng dấu gạch ngang (-)"
+
+#~ msgid "Duplicate domain"
+#~ msgstr "Trùng domain"
+
+#~ msgid "Please select at least one domain extension."
+#~ msgstr "Vui lòng chọn ít nhất 1 đuôi domain để kiểm tra"
+
+#~ msgid "Check"
+#~ msgstr "Kiểm Tra"
+
+#~ msgid "View information: "
+#~ msgstr "Xem thông tin:"
+
+#~ msgid ""
+#~ "Domain not validate! Note: Domain includes only the characters A-Z, 0-9 "
+#~ "and minus (-)"
+#~ msgstr ""
+#~ "Domain không hợp lệ! Chú ý: Domain chỉ bao gồm các kí tự a-z, 0-9 và dấu "
+#~ "gạch ngang (-)"
+
+#~ msgid "input your domain..."
+#~ msgstr "tên miền cần kiểm tra...."
+
+#~ msgid "All"
+#~ msgstr "Tất cả"
+
+#~ msgid "Checking..."
+#~ msgstr "Đang kiểm tra..."
+
+#~ msgid "Limit access, please comeback later, thanks!"
+#~ msgstr "Giới hạn truy cập, vui lòng quay lại sau ít phút, cảm ơn!"
+
+#~ msgid "Rank of "
+#~ msgstr "Vị trí thư "
+
+#~ msgid "Sorry, have problem, please try again"
+#~ msgstr "Xin lỗi, có lỗi xảy ra, vui lòng thử lại"
+
+#~ msgid ""
+#~ "+ Domain includes only the characters A-Z, 0-9 and minus (-), dots(.) \\n"
+#~ msgstr ""
+#~ "+ Tên miền chỉ bao gồm các kí tự a-z, 0-9, dấu gạch ngang (-) và dấu chấm "
+#~ "(.)"
+
+#~ msgid "Start page check"
+#~ msgstr "Trang bắt đầu tìm"
+
+#~ msgid "End page check"
+#~ msgstr "Tìm đến trang "
+
+#~ msgid "Choose link to check"
+#~ msgstr "Chọn link để check "
+
+#~ msgid "Power by"
+#~ msgstr "Cung cấp bởi"
+
+#~ msgid "Google Analytics Code"
+#~ msgstr "Đoạn mã phân tích của Google"
+
+#~ msgid "Paste your Google Analytics or other tracking code in this box."
+#~ msgstr "Dãn đoạn mã phân tích từ Google vào khung dưới"
+
+#~ msgid "Paste your Feedburner URL here to let readers see it in your website"
+#~ msgstr ""
+#~ "Dán Feedburner URL của bạn ở đây để người đọc nhìn thấy nó trong trang "
+#~ "web của bạn"
+
+#~ msgid "Show child category"
+#~ msgstr "Hiển thị Chuyên Mục con"
+
+#~ msgid "FOM SLIDE SETTING"
+#~ msgstr "FOM Cài đặt Slide"
+
+#~ msgid "Category (Make sure that the Category for Media Plugin is installed)"
+#~ msgstr ""
+#~ "Chuyên mục (Hãy chắc chắn rằng bạn đã bật Plugin Category for Media)"
+
+#~ msgid "Type of Animation"
+#~ msgstr "Kiểu hiệu ứng"
+
+#~ msgid "This is size of yours images."
+#~ msgstr "Kích thước hình ảnh của bạn."
+
+#~ msgid "Save Changes"
+#~ msgstr "Lưu thay đổi"
+
+#~ msgid "English (default)"
+#~ msgstr "Tiếng Anh (Mặc định)"

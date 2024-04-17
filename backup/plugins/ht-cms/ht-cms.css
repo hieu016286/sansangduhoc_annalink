@@ -1,0 +1,168 @@
+/*
+
+Dashboard Pages Styling 
+
+*/
+.table{display: table; }
+.table .group {display: table-row-group; }
+.table .thead{
+	font-weight: 600;
+}
+.table .row{
+	display: table-row;
+}
+.table .row .cell{
+	display: table-cell;
+	padding: 3px 10px;
+	vertical-align: middle;
+}
+.table .row .cell.title{
+	vertical-align: middle;
+}
+.table button, .table .button{margin: 0;}
+.table .medium{width: 50%;}
+.table .large{width: 90%;}
+.row-thumb{
+	text-align: center;
+}
+.row-thumb img{
+	max-width: 60px;
+	max-height: 60px;
+}
+#wpwrap{top: 58px;}
+#wpadminbar{
+	background: #334148;
+	height: 55px;
+	border-bottom: 3px solid #adcb36;
+	color: #fff;
+}
+
+html.wp-toolbar {
+	padding-top: 0px;
+}
+#wpcontent{margin-top: 0px;}
+
+#adminmenushadow {background: none;}
+#adminmenuback {background: #ECECEC;}
+
+#wpadminbar .quicklinks li, #wpadminbar .quicklinks .ab-empty-item, #wpadminbar .shortlink-input{
+	margin: 0px 0 1px; 
+}
+#wpadminbar .quicklinks > ul > li > a, #wpadminbar .quicklinks > ul > li > .ab-empty-item{
+	border: none;	
+	color: #AECD36;
+	font-size: 14px;
+}
+#wpadminbar .quicklinks > ul > li{
+	border: none;
+	margin: 12px 0;
+}
+#wpadminbar #wp-admin-bar-root-default > li:hover > .ab-item, #wpadminbar #wp-admin-bar-root-default > li.hover > .ab-item, #wpadminbar #wp-admin-bar-root-default > li > .ab-item:focus, #wpadminbar.nojq #wp-admin-bar-root-default > li > .ab-item:focus {
+    background: linear-gradient(to top, #fff, #ccc) #ccc;
+    color: #333;
+	text-shadow: none;
+	border-radius: 5px;
+	box-shadow: 0px 0px 2px #666;
+}
+#wpadminbar .quicklinks li .blavatar:before{
+	width: 0;
+	height: 0;
+	content: '';
+}
+#wpadminbar .quicklinks li .blavatar{
+	width: 25px;
+	background: url(images/logo.png) no-repeat center center;
+	margin-right: 5px;
+	margin-top: 5px;
+}
+#wpadminbar ul#wp-admin-bar-root-default > li.logo{
+	margin: 8px 10px 0;
+}
+#wpadminbar .ab-top-menu > li.logo a{
+	height: 40px;
+	padding: 0;
+}
+#wpadminbar  #wp-admin-bar-root-default li.logo:hover a, #wpadminbar  #wp-admin-bar-root-default li.logo:focus a{
+	box-shadow: none;
+	border-radius: none;
+}
+#wpadminbar .ab-top-secondary{
+	background: none;
+	border: none;
+}
+#wpadminbar .quicklinks .ab-top-secondary > li{border: none;}
+#wpadminbar .quicklinks .ab-top-secondary > li > a, #wpadminbar .quicklinks .ab-top-secondary > li > .ab-empty-item {border: none;}
+#wpadminbar .quicklinks .ab-top-secondary > li.hover a{border-radius: 0;}
+#wpadminbar .quicklinks{background: url(images/bg_header.png) no-repeat center center;}
+#wpadminbar .menupop .ab-sub-wrapper, #wpadminbar .shortlink-input{
+	
+}
+#wpadminbar .ab-submenu{
+	padding: 0;
+}
+#wpadminbar .quicklinks .menupop ul li a, #wpadminbar .quicklinks .menupop ul li a strong, #wpadminbar .quicklinks .menupop.hover ul li a, #wpadminbar.nojs .quicklinks .menupop:hover ul li a{
+	
+}
+#adminmenu, #adminmenu .wp-submenu, #adminmenuback, #adminmenuwrap{
+	background: #3B4B54;
+}
+#adminmenu li.menu-top{
+	border-bottom: 1px solid #333f46;
+    border-top: 1px solid #495961;
+    color: #afbac0;
+    display: block;
+    height: auto;
+    line-height: 36px;
+    text-decoration: none;
+}
+#adminmenu li.menu-top > a{
+	padding: 5px 0;
+}
+
+#adminmenu .wp-submenu, #adminmenu .wp-submenu-wrap{
+	margin: 0;
+	padding: 0;
+	background: #374147;
+}
+#adminmenu .wp-submenu > li, #adminmenu .wp-submenu-wrap > li{
+	
+}
+#adminmenu .wp-submenu > li > a, #adminmenu .wp-submenu-wrap > li > a{
+	padding: 5px 5px;
+    height: auto;
+    line-height: 25px;
+    border-bottom: 1px solid #333f46;
+    border-top: 1px solid #495961;
+    color: #afbac0;
+    text-decoration: none;
+}
+#adminmenu li.menu-top:hover, #adminmenu li.opensub > a.menu-top, #adminmenu li > a.menu-top:focus,
+#adminmenu .wp-submenu > li:hover, #adminmenu .wp-submenu-wrap > li:hover{
+	background: #30393F;
+}
+.postbox .row{
+	padding: 5px 0;
+}
+.form-table th, .form-table td {
+	padding: 5px 10px;
+}
+.col-2{
+	width: 50%;
+	float: left;
+}
+.col-3{
+	width: calc(100% / 3);
+	float: left;
+}
+.col-4{
+	width: calc(100% / 4);
+	float: left;
+}
+
+#wpadminbar .quicklinks:after, .postbox:after{
+	display: block; 
+	height: 0;
+	content: ''; 
+	visibility: hidden; 
+	clear: both;
+}

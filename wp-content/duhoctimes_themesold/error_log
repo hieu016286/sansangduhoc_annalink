@@ -1,0 +1,3 @@
+[15-Mar-2015 16:51:26 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/online/public_html/views/templates/online/index.php on line 14
+[24-Mar-2015 02:33:52 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/sualaptop/public_html/banphimlaptopgiare.com/wp-content/themes/banphimlaptop/index.php on line 14
+[12-May-2015 23:10:40 Asia/Bangkok] PHP Fatal error:  Call to undefined function get_header() in /home/vnt53db0/public_html/wp-content/themes/bongdalive_v2/index.php on line 1

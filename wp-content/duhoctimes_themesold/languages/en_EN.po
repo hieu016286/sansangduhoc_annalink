@@ -1,0 +1,1069 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: dich theme fom 2014\n"
+"POT-Creation-Date: 2014-08-07 00:29+0700\n"
+"PO-Revision-Date: 2014-08-07 00:30+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_AS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.6\n"
+"X-Poedit-Basepath: C:\\Users\\Admin\\Desktop\\pgcg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: C:\\Users\\Admin\\Desktop\\pgcg\n"
+
+#: C:\Users\Admin\Desktop\pgcg/404.php:14
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/404.php:18
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/404.php:26
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: C:\Users\Admin\Desktop\pgcg/404.php:43
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/archive.php:30
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/archive.php:38
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/archive.php:41
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/archive.php:44
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/archive.php:47
+msgid "Asides"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/archive.php:50
+msgid "Images"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/archive.php:53
+msgid "Videos"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/archive.php:56
+msgid "Quotes"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/archive.php:59
+msgid "Links"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/archive.php:62
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/archives-widget.php:95
+msgid "Archives"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/comments.php:38
+#: C:\Users\Admin\Desktop\pgcg/comments.php:58
+msgid "Comment navigation"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/comments.php:39
+#: C:\Users\Admin\Desktop\pgcg/comments.php:59
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/comments.php:40
+#: C:\Users\Admin\Desktop\pgcg/comments.php:60
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/comments.php:70
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/content-loop.php:27
+#: C:\Users\Admin\Desktop\pgcg/content-video.php:46
+#: C:\Users\Admin\Desktop\pgcg/content.php:17
+msgid "Continue reading &rarr;"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/content-loop.php:31
+#: C:\Users\Admin\Desktop\pgcg/content-page.php:18
+#: C:\Users\Admin\Desktop\pgcg/full-width-no-title-page.php:26
+#: C:\Users\Admin\Desktop\pgcg/image.php:57
+#: C:\Users\Admin\Desktop\pgcg/inc/template-tags.php:64
+msgid "Pages:"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/content-page.php:23
+#: C:\Users\Admin\Desktop\pgcg/full-width-no-title-page.php:31
+#: C:\Users\Admin\Desktop\pgcg/image.php:31
+#: C:\Users\Admin\Desktop\pgcg/image.php:63
+#: C:\Users\Admin\Desktop\pgcg/inc/template-tags.php:87
+#: C:\Users\Admin\Desktop\pgcg/inc/template-tags.php:106
+msgid "Edit"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/content-video.php:42
+msgid "Views: "
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/functions.php:46
+msgid "Primary Menu"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/functions.php:47
+msgid "Footer Menu"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/functions.php:65
+msgid "Home"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/functions.php:75
+msgid "Sidebar"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/functions.php:85
+msgid "Prefooter Area One"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/functions.php:95
+msgid "Prefooter Area Two"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/functions.php:105
+msgid "Prefooter Area Three"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/functions.php:184
+#: C:\Users\Admin\Desktop\pgcg/functions.php:186
+#: C:\Users\Admin\Desktop\pgcg/functions.php:188
+msgid "on"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/functions.php:249
+msgid "Menu"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/functions.php:290
+msgid "Support"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/functions.php:292
+msgid ""
+"The best way to contact me with <b>support questions</b> and <b>bug reports</"
+"b> is via the"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/functions.php:292
+msgid "WordPress support forums"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/functions.php:293
+msgid "If you like this theme, I'd appreciate if you could "
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/functions.php:294
+msgid "rate Sugar & Spice at WordPress.org"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/functions.php:294
+msgid "Thanks!"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/header.php:37
+msgid "Submit a post or video to share vigilant for everyone."
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/header.php:37
+msgid "Post a vigilance"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/header.php:42
+msgid "Skip to content"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/image.php:21
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/image.php:36
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/image.php:37
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/add_meta_boxes.php:122
+msgid "Upload Video"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/add_meta_boxes.php:234
+msgid "Select/Upload Video"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/add_meta_boxes.php:234
+msgid "Select video from media or upload new video"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/extras.php:70
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/fom-functions.php:86
+msgid "Not exists taxonomy"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/fom-functions.php:101
+msgid "Detail Video"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/fom-functions.php:340
+msgid "Page"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/fom-functions.php:365
+#, php-format
+msgid "Page %s of %s"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/fom-functions.php:367
+msgid "First "
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/fom-functions.php:371
+msgid "Last "
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/options-framework/options-framework.php:182
+#: C:\Users\Admin\Desktop\pgcg/inc/options-framework/options-framework.php:183
+#: C:\Users\Admin\Desktop\pgcg/inc/options-framework/options-framework.php:416
+msgid "Theme Options"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/options-framework/options-framework.php:228
+msgid "Clear"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/options-framework/options-framework.php:229
+msgid "Default"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/options-framework/options-framework.php:230
+msgid "Select Color"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/options-framework/options-framework.php:262
+msgid "Ready for more? Upgrade to Pro!"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/options-framework/options-framework.php:263
+msgid ""
+"Custom Home Page with slider, unlimited colors, additional theme options</b> "
+"and more!"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/options-framework/options-framework.php:263
+msgid "Upgrade now!"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/options-framework/options-framework.php:280
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/options-framework/options-framework.php:312
+msgid "Default options restored."
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/options-framework/options-framework.php:366
+msgid "Options saved."
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/options-framework/options-media-uploader.php:51
+msgid "No file chosen"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/options-framework/options-media-uploader.php:54
+#: C:\Users\Admin\Desktop\pgcg/inc/options-framework/options-media-uploader.php:113
+msgid "Upload"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/options-framework/options-media-uploader.php:56
+#: C:\Users\Admin\Desktop\pgcg/inc/options-framework/options-media-uploader.php:114
+msgid "Remove"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/options-framework/options-media-uploader.php:59
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/options-framework/options-media-uploader.php:83
+msgid "View File"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/options-framework/options-sanitize.php:232
+msgid "No Repeat"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/options-framework/options-sanitize.php:233
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/options-framework/options-sanitize.php:234
+msgid "Repeat Vertically"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/options-framework/options-sanitize.php:235
+msgid "Repeat All"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/options-framework/options-sanitize.php:248
+msgid "Top Left"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/options-framework/options-sanitize.php:249
+msgid "Top Center"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/options-framework/options-sanitize.php:250
+msgid "Top Right"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/options-framework/options-sanitize.php:251
+msgid "Middle Left"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/options-framework/options-sanitize.php:252
+msgid "Middle Center"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/options-framework/options-sanitize.php:253
+msgid "Middle Right"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/options-framework/options-sanitize.php:254
+msgid "Bottom Left"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/options-framework/options-sanitize.php:255
+msgid "Bottom Center"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/options-framework/options-sanitize.php:256
+msgid "Bottom Right"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/options-framework/options-sanitize.php:269
+msgid "Scroll Normally"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/options-framework/options-sanitize.php:270
+msgid "Fixed in Place"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/options-framework/options-sanitize.php:344
+msgid "Normal"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/options-framework/options-sanitize.php:345
+msgid "Italic"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/options-framework/options-sanitize.php:346
+msgid "Bold"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/options-framework/options-sanitize.php:347
+msgid "Bold Italic"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/template-tags.php:34
+msgid "Post navigation"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/template-tags.php:37
+msgid "Navigation"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/template-tags.php:38
+msgid "&larr;"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/template-tags.php:39
+msgid "&rarr;"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/template-tags.php:44
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/template-tags.php:48
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/template-tags.php:87
+msgid "Pingback:"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/template-tags.php:98
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/template-tags.php:103
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/template-tags.php:109
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/template-tags.php:232
+msgid "No Comments"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/template-tags.php:234
+msgid " Comments"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/template-tags.php:236
+msgid "1 Comment"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/template-tags.php:239
+msgid "Comments off"
+msgstr ""
+
+#. translators: this text appears next to author name
+#: C:\Users\Admin\Desktop\pgcg/inc/template-tags.php:253
+msgid "by"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/template-tags.php:255
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: C:\Users\Admin\Desktop\pgcg/inc/template-tags.php:300
+#: C:\Users\Admin\Desktop\pgcg/inc/template-tags.php:303
+msgid ", "
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/template-tags.php:308
+#, php-format
+msgid "This entry was tagged %2$s."
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/template-tags.php:314
+#, php-format
+msgid "This entry was posted in %1$s and tagged %2$s."
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/template-tags.php:316
+#, php-format
+msgid "This entry was posted in %1$s."
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/about-widget.php:13
+msgid "About section with autor image"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/about-widget.php:19
+msgid "Sugar & Spice: About"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/about-widget.php:73
+msgid "About"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/about-widget.php:78
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/archives-widget.php:100
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/contact-widget.php:85
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/social-widget.php:92
+#: C:\Users\Admin\Desktop\pgcg/upload.php:101
+msgid "Title"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/about-widget.php:84
+msgid "About the author text"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/about-widget.php:90
+msgid "Author image URL"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/about-widget.php:92
+msgid ""
+"Suggested image dimensions: 120x120px or 100x100px. Image will be rounded "
+"automatically!"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/about-widget.php:96
+msgid "Read more URL"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/about-widget.php:101
+msgid "Read more button text"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/archives-widget.php:13
+msgid ""
+"Displays a list of monthly archives, categories or pages in two columns."
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/archives-widget.php:19
+msgid "Sugar & Spice: Archives / Categories / Pages List"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/archives-widget.php:107
+msgid "Type"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/archives-widget.php:109
+msgid "archives"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/archives-widget.php:110
+msgid "categories"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/archives-widget.php:111
+msgid "pages"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/contact-widget.php:13
+msgid "Displays conatct info with icons"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/contact-widget.php:19
+msgid "Sugar & Spice: Contact widget"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/contact-widget.php:45
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/contact-widget.php:90
+msgid "Address"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/contact-widget.php:49
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/contact-widget.php:95
+msgid "Phone"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/contact-widget.php:53
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/contact-widget.php:100
+msgid "Email"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/contact-widget.php:80
+msgid "Contact"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:5
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:6
+msgid "Show News"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:68
+msgid ">> Xem Thêm"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:111
+msgid "Read more..."
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:244
+msgid "Title:"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:246
+msgid "Default: Recent Posts."
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:249
+msgid "Select Post Type:"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:264
+msgid "Select Type:"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:279
+#: C:\Users\Admin\Desktop\pgcg/upload.php:117
+msgid "Select Category:"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:281
+msgid "All Categories"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:291
+msgid "Hold down <strong>Ctrl</strong> key to select multiple categories."
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:294
+msgid "Setting featured"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:296
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:315
+msgid "Width of thumb:"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:300
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:319
+msgid "Height of thumb:"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:304
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:323
+msgid "Number to Display:"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:308
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:326
+msgid "Character excerpt:"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:313
+msgid "Setting more news"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:331
+msgid "Show time?"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:334
+msgid "Setting general"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:336
+msgid "Select type display:"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:338
+msgid "Large Image"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:339
+msgid "Small Image"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:340
+msgid "Video"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:341
+msgid "Timeline"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:342
+msgid "On Sidebar"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:346
+msgid "Width of Content:"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:348
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:356
+msgid "Full width"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:349
+msgid "Part Two"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:350
+msgid "Part Three"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:354
+msgid "Column of Video:"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:357
+msgid "2 Column"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:358
+msgid "3 Column"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:359
+msgid "4 Column"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:360
+msgid "5 Column"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:365
+msgid "Link for header:"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:368
+msgid ""
+"If set empty, link of first category choose above will be set for link header"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:371
+msgid "Add header:"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:376
+msgid "Hiển thị nút \"xem thêm\""
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:379
+msgid "Tag of title:"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/news-widget.php:383
+msgid "Order by:"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/social-widget.php:13
+msgid "Displays icons to social media profiles."
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/social-widget.php:19
+msgid "Sugar & Spice: Social media icons"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/social-widget.php:96
+msgid ""
+"Enter full URL. If you don't want to display element, leave it's URL field "
+"empty."
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/social-widget.php:100
+msgid "URL address of your Facebook profile or page"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/social-widget.php:106
+msgid "URL address of your Twitter profile"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/social-widget.php:112
+msgid "URL address of your Google+ profile"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/social-widget.php:118
+msgid "URL address of your Pinterest profile"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/social-widget.php:124
+msgid "URL address of your Instagram profile"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/social-widget.php:130
+msgid "URL address of your YouTube channel"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/social-widget.php:136
+msgid "URL address of your Flickr profile page"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/inc/widgets/social-widget.php:142
+msgid "URL address of your RSS feed"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/no-results.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/no-results.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/no-results.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/no-results.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:32
+msgid "Green"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:33
+msgid "Emerald"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:34
+msgid "Mint"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:35
+msgid "Peach"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:36
+msgid "Pink"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:37
+msgid "Red"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:38
+msgid "Violet"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:39
+msgid "Baby Blue"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:40
+msgid "Orange"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:41
+msgid "Yellow"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:44
+msgid "No"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:44
+msgid "Yes"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:48
+msgid "Excerpts only"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:49
+msgid "Full posts"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:50
+msgid "First post full, rest as excerpts"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:54
+msgid "Display date"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:55
+msgid "Display author"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:56
+msgid "Display comments"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:69
+msgid "Basic Settings"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:73
+msgid "Color scheme"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:74
+msgid "General color scheme."
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:82
+msgid "Custom logo image"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:83
+msgid "You can upload custom image for your website logo (optional)."
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:89
+msgid "Custom favicon"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:90
+msgid ""
+"Small 16x16px pictures you see beside URL in browser's address bar. Image "
+"should be named <b>favicon.ico</b>"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:96
+#: C:\Users\Admin\Desktop\pgcg/options.php:105
+msgid "Select Layout option"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:97
+msgid "This layout will be applied to Home Page."
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:106
+msgid "This layout will be applied to Archive & Category Pages."
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:114
+msgid "Disable responsive stylesheet"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:116
+msgid ""
+"Setting to \"Yes\" will make your website unresponsive i.e. look the same on "
+"computers and mobile devices."
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:123
+msgid "Post meta display options"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:131
+msgid "Post signature image"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:132
+msgid "Image displayed at the very end of every post."
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:137
+msgid "Menu Settings"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:141
+msgid "Background"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:142
+msgid "Background color of menu"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:149
+msgid "Background Hover"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:150
+msgid "Background color hover of menu"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:157
+msgid "Text Color"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:158
+msgid "Text color of menu"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:165
+msgid "Hover Color"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:166
+msgid "Hover color for text of menu"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:173
+msgid "Border Left Color"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:174
+msgid "Border left color of li menu"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:181
+msgid "Border Right Color"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/options.php:182
+msgid "Border Right color of li menu"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/pagination.php:8
+msgid "Older posts"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/pagination.php:9
+msgid "Newer posts"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/search.php:15
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/single.php:19
+msgid "About the author"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/upload.php:12
+msgid "You can not create a new post!"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/upload.php:19
+msgid "Title can't be empty!"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/upload.php:24
+msgid "Invalid Thumbnail Image"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/upload.php:36
+msgid "You just can't upload image with types: .png, .jpg and .gif"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/upload.php:38
+msgid "You just can't upload file with maximum size 1Mb"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/upload.php:45
+msgid "Content can't be empty!"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/upload.php:49
+msgid "Invalid value category"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/upload.php:105
+msgid "Thumbnail"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/upload.php:107
+msgid "Allow types: .pdf, .doc, .docx"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/upload.php:110
+msgid "Content"
+msgstr ""
+
+#: C:\Users\Admin\Desktop\pgcg/upload.php:142
+msgid "Send"
+msgstr ""

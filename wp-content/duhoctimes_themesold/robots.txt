@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin-fom/
+Disallow: /libs/
+
+Sitemap: http://fom.vn/sitemap.xml.gz

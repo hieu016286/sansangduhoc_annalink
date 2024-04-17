@@ -1,0 +1,59 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+    <title>.:ZingNews:Image View 20:.</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+</head>
+<body>
+    <table width="524" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+            <td height="428" align="center" valign="middle" bgcolor="F7F7F7">
+
+                <script type="text/javascript">
+                    var _reg = new RegExp(/ImageView\.htm\?(.*?)$/ig); 
+                    var s = '';
+                    var _reg = _reg.exec(location.href)[1];
+                    if(_reg.substring(0,4).toLowerCase()=='http')
+                    {
+                        if(_reg.indexOf('news.zing.vn')>-1)
+                        {
+                            var re9 = new RegExp(/(\-?\d+)\/t*(\-?\d+\..*)$/ig);
+                            re9 = re9.exec(_reg);
+							var refli = re9[2];
+							if(re9[2].indexOf('-')==0)
+								refli = 't'+refli;
+							s = '<img src="http://img.news.zing.vn/img/' + re9[1] + '/' + refli + '" alt="Close" onclick="window.close()" />';
+                        }
+                        else
+                            s = '<img src="'+_reg+'" alt="Close" onclick="window.close()" />';
+                    }
+                    else
+                    {
+                        s = '<img src="http://news.zing.vn/img/imageView.aspx?ImageID=';
+                        s += location.search.substr(location.search.indexOf('=') + 1);
+                        s += '" alt="Close" onclick="window.close()" />';
+                    }
+                    document.write(s);
+                </script>
+
+            </td>
+        </tr>
+    </table>
+
+    <script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+
+    <script type="text/javascript">
+        var firstTracker = _gat._getTracker("UA-4695288-1");
+        firstTracker._setDomainName('zing.vn');
+        firstTracker._initData();
+        firstTracker._trackPageview();
+        var secondTracker = _gat._getTracker("UA-5394279-1"); 
+        secondTracker._initData();
+        secondTracker._trackPageview();
+    </script>
+
+</body>
+</html>
